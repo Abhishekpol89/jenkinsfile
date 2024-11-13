@@ -1,0 +1,3 @@
+[submodule "abhishektest/Jenkins-D3/abhishektest/Jenkins-D3/jenkinsfile"]
+	path = abhishektest/Jenkins-D3/abhishektest/Jenkins-D3/jenkinsfile
+	url = https://github.com/Abhishekpol89/jenkinsfile.git
